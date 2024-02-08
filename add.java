@@ -3,7 +3,7 @@ class Vasanth{
         
         int a=1;
         int b=2;
-        int c=3;
+        int c=11;
         
         System.out.println(b);
     }
