@@ -4,6 +4,6 @@ class Vasanth{
         int a=100;
         int b=2;
         int c=5;
-        System.out.println(b);
+        System.out.println(b*c);
     }
 }
